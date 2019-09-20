@@ -19,6 +19,7 @@ li {
     margin: 20px;
     margin-left: 195px;
     margin-right: 38px;
+    font-size: 40px;
 }
 
 .topli_right {
@@ -30,7 +31,7 @@ li {
     display: block;
     color: #777;
     text-align: center;
-    font-size: 17px;
+    font-size: 25px;
     padding: 8px 16px;
     text-decoration: none;
     margin-top: 15px;
