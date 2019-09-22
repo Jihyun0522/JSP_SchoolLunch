@@ -19,7 +19,7 @@ li {
     margin: 20px;
     margin-left: 195px;
     margin-right: 38px;
-    font-size: 40px;
+    font-size: 30px;
 }
 
 .topli_right {
@@ -31,10 +31,10 @@ li {
     display: block;
     color: #777;
     text-align: center;
-    font-size: 25px;
+    font-size: 15px;
     padding: 8px 16px;
     text-decoration: none;
-    margin-top: 15px;
+    margin-top: 35px;
 }
 
 .topli a:hover, .topli_right a:hover {
