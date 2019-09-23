@@ -161,7 +161,6 @@ A:hover {
 						
 						if(rs.next()){
 							menu = rs.getString(1);
-							System.out.println(menu);
 							array_menu = menu.split("/");
 							out.println(array_menu[0] + "<br>");
 							
